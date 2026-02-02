@@ -3,7 +3,6 @@
     padding: 0;
     font-family: 'poppins',sans-serif;
     box-sizing: border-box;
-    color:white;
 }
 html{
     scroll-behavior: smooth;
@@ -381,3 +380,4 @@ nav .fa-solid{
     display: block;
 
 }
+
